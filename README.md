@@ -12,7 +12,7 @@ While I primarily work with PHP and Laravel, I also use **JavaScript** for inter
 - **Databases:** MySQL  
 - **DevOps & Cloud:** Ubuntu, Apache/Nginx, AWS (EC2, RDS, S3)  
 - **Tools & Workflow:** Git, GitHub, Postman, Jira  
-- **Payment Tools:** Razorpay, Stripe  
+- **Payment gateways:** Razorpay, Stripe  
 
 ---
 
